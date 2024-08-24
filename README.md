@@ -9,7 +9,13 @@
 # Unity-Advanced-Template
 
 https://github.com/SynthWomb/Synthia-Unity
-
+```bash
+git remote add synthia https://github.com/SynthWomb/Synthia-Unity.git
+git fetch synthia
+git checkout main
+git merge synthia/main --allow-unrelated-histories
+git commit -m "Merged from Synthia-Unity repository"
+```
 ```bash
 pip install -q -U google-generativeai
 ```
