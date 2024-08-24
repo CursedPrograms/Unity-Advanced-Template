@@ -8,6 +8,22 @@
 
 # Unity-Advanced-Template
 
+https://github.com/SynthWomb/Synthia-Unity
+
+```bash
+pip install -q -U google-generativeai
+```
+```bash
+export API_KEY=<YOUR_API_KEY>
+```
+<br>
+
+<div align="center">
+<a href="https://github.com/SynthWomb" target="_blank" align="center">
+    <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb07.png"
+        alt="SynthWomb" style="width:200px;"/>
+</a>
+
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo">
