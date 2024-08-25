@@ -16,6 +16,16 @@ git checkout main
 git merge synthia/main --allow-unrelated-histories
 git commit -m "Merged from Synthia-Unity repository"
 ```
+
+```bash
+git remote add confederateAI https://github.com/CursedPrograms/ConfederateAI.git
+git fetch confederateAI
+git checkout main
+git merge confederateAI/main --allow-unrelated-histories
+git commit -m "Merged from ConfederateAI repository"
+```
+
+
 ```bash
 pip install -q -U google-generativeai
 ```
