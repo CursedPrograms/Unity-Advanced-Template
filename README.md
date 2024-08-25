@@ -9,6 +9,7 @@
 # Unity-Advanced-Template
 
 https://github.com/SynthWomb/Synthia-Unity
+### Clone Synthia
 ```bash
 git remote add synthia https://github.com/SynthWomb/Synthia-Unity.git
 git fetch synthia
@@ -16,7 +17,7 @@ git checkout main
 git merge synthia/main --allow-unrelated-histories
 git commit -m "Merged from Synthia-Unity repository"
 ```
-
+### Clone ConfederateAI
 ```bash
 git remote add confederateAI https://github.com/CursedPrograms/ConfederateAI.git
 git fetch confederateAI
