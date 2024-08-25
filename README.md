@@ -8,8 +8,8 @@
 
 # Unity-Advanced-Template
 
-https://github.com/SynthWomb/Synthia-Unity
 ### Clone Synthia
+https://github.com/SynthWomb/Synthia-Unity
 ```bash
 git remote add synthia https://github.com/SynthWomb/Synthia-Unity.git
 git fetch synthia
@@ -18,7 +18,6 @@ git merge synthia/main --allow-unrelated-histories
 git commit -m "Merged from Synthia-Unity repository"
 ```
 #### Install Python
-
 ```bash
 pip install -q -U google-generativeai
 ```
@@ -26,6 +25,7 @@ pip install -q -U google-generativeai
 export API_KEY=<YOUR_API_KEY>
 ```
 ### Clone ConfederateAI
+https://github.com/CursedPrograms/ConfederateAI
 ```bash
 git remote add confederateAI https://github.com/CursedPrograms/ConfederateAI.git
 git fetch confederateAI
